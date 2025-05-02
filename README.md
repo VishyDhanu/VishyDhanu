@@ -1,11 +1,8 @@
-## Hi there 👋
+## Hi Everyone 👋
 
 <!--
 **VishyDhanu/VishyDhanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Hello Everyone 👋
-
 I am Vishy Dhanu and I build what I like!
 
 - 🔭 I’m currently working on my perosnal portfolio projects
@@ -15,5 +12,6 @@ I am Vishy Dhanu and I build what I like!
 - 💬 Ask me about business ideas 
 - 📫 How to reach me: React me through my portfolio website
 - 😄 Pronouns: Vishy
-- ⚡ Fun fact: I love football and reading business articles 
-
+- ⚡ Fun fact: I love football and reading business articles
+- This is my portfolio website(old), currently working on my new website. https://dhanushan.vercel.app/
+- Thanks for reading so far and havve a great day!♥️
